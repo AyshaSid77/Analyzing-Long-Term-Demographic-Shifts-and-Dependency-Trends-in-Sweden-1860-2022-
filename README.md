@@ -34,6 +34,7 @@ Total dependents
 relative to the total population.
 
 **3. Analytical Discussion**
+
 Discussion on major demographic changes based on the figures.
 
 Insights into historical events (e.g., the World Wars) and their demographic impacts.
@@ -41,6 +42,7 @@ Insights into historical events (e.g., the World Wars) and their demographic imp
 Interpretation of broader trends like lower birth rates, population aging, and life expectancy.
 
 **Methodology**
+
 Data was processed and grouped into relevant age categories.
 
 Yearly dependency ratios were computed from structured data.
@@ -50,6 +52,7 @@ Charts were created to visually track and compare demographic shifts.
 Analysis was documented in a report with visual references.
 
 **Data Sources**
+
 Statistics Sweden (SCB) – Historical population by age and sex
 Website: https://www.scb.se
 
@@ -57,6 +60,7 @@ World Health Organization (WHO) – Definition and framework for dependency rati
 Website: https://www.who.int
 
 **Key Findings**
+
 A significant drop in the dependency ratio occurred between 1915 and 1940, likely due to reduced birth rates during wartime.
 
 The proportion of elderly individuals in the population has risen steadily over time.
@@ -66,6 +70,7 @@ The fraction of children has gradually declined, which is a typical trend in dev
 These demographic shifts may present challenges in the future, including a reduced labor force and increased need for elderly care.
 
 **Output Files**
+
 Dependency_ratio_i.png: Line graph of Sweden's dependency ratio from 1860 to 2022
 
 compare_fraction.png: Plot comparing the proportions of children, elderly, and total dependents to the overall population
