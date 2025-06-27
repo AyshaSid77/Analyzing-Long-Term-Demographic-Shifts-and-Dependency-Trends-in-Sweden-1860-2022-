@@ -1,9 +1,13 @@
-# Data-Science-
-**Analyzing Long-Term Demographic Shifts and Dependency Trends in Sweden (1860–2022)
-Project Overview**
+# Data-Science
+
+**Analyzing Long-Term Demographic Shifts and Dependency Trends in Sweden (1860–2022)**
+
+**Project Overview**
+
 This project explores long-term demographic trends in Sweden by calculating and visualizing the dependency ratio from 1860 to 2022. The objective is to understand how the proportion of the working-age population to dependents (children and the elderly) has shifted over time, and what these shifts imply for societal and economic planning.
 
 **What’s Included**
+
 **1. Dependency Ratio Calculation**
 The analysis is based on population data from Statistics Sweden (SCB).
 
@@ -17,6 +21,7 @@ This definition follows the World Health Organization (WHO) standard, where:
 2.Labor force = ages 15–64
 
 **2. Visualizations**
+
 Figure 1: A line graph showing the dependency ratio in Sweden from 1860 to 2022.
 
 Figure 2: A comparative plot showing the fraction of:
